@@ -27,6 +27,16 @@
 
   
 
+<table class="center">
+<tr> <td>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharuka-sandaruwan&show_icons=true&theme=dracula&bg_color=000000&locale=en" alt="tharuka-sandaruwan" /></p>
+  </td>
+  
+  <td>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharuka-sandaruwan&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tharuka-sandaruwan" /></p>
+  </td>
+</tr>
+</table>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharuka-sandaruwan&show_icons=true&theme=dracula&bg_color=000000&locale=en" alt="tharuka-sandaruwan" /></p>
 
