@@ -7,7 +7,7 @@
     
   
     <path id="path">
-      <animate id="anim1" attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="1.5s" begin="0s;  anim6.end"
+      <animate id="anim1" attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="1.5s" begin="0s;  anim6.end+1"
         />
         <animate id="anim2" attributeName="d" from="m0,110 h1100" to="m0,110 h0" dur="1.5s" begin="anim1.end"
         />
@@ -16,17 +16,17 @@
 
 
      <path id="path3">
-      <animate id="anim3" attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="3s" begin="anim2.end+1"
+      <animate id="anim3" attributeName="d" from="m0,110 h0" to="m0,110 h1500" dur="2s" begin="anim2.end+1"
         />
-        <animate id="anim4" attributeName="d" from="m0,110 h1100" to="m0,110 h0" dur="3s" begin="anim3.end"
+        <animate id="anim4" attributeName="d" from="m0,110 h1500" to="m0,110 h0" dur="2s" begin="anim3.end"
         />
     </path>
 
 
      <path id="path4">
-      <animate id="anim5" attributeName="d" from="m0,110 h0" to="m0,110 h1200" dur="4s" begin="anim4.end+1"
+      <animate id="anim5" attributeName="d" from="m0,110 h0" to="m0,110 h1500" dur="3s" begin="anim4.end+1"
         />
-        <animate id="anim6" attributeName="d" from="m0,110 h1200" to="m0,110 h0" dur="4s" begin="anim5.end"
+        <animate id="anim6" attributeName="d" from="m0,110 h1500" to="m0,110 h0" dur="3s" begin="anim5.end"
         />
     </path>
     
