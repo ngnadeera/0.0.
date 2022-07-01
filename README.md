@@ -1,8 +1,6 @@
 
 ![My anim](https://github.com/Tharuka-Sandaruwan/Tharuka-Sandaruwan/blob/main/anim.svg) 
 
-<h1 align="center">Hello World!👋, I'm Tharuka Sandaruwan</h1>
-<h3 align="center">An Undergraduate@UOK</h3>
 
 - 🌱 I’m currently learning **Information Technology**
   
