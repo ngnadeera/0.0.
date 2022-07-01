@@ -25,9 +25,8 @@
 ![snake gif](https://github.com/Tharuka-Sandaruwan/Tharuka-Sandaruwan/blob/output/github-contribution-grid-snake.svg) 
 
 
-  
 
-<table class="center">
+<table rules = none>
 <tr> <td>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharuka-sandaruwan&show_icons=true&theme=dracula&bg_color=000000&locale=en" alt="tharuka-sandaruwan" /></p>
   </td>
@@ -36,7 +35,13 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharuka-sandaruwan&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tharuka-sandaruwan" /></p>
   </td>
 </tr>
+  <tr>
+  <th colspan="2">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharuka-sandaruwan&theme=dark" alt="tharuka-sandaruwan" /></p>
+    </th>
+  </tr>
 </table>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharuka-sandaruwan&show_icons=true&theme=dracula&bg_color=000000&locale=en" alt="tharuka-sandaruwan" /></p>
 
