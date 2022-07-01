@@ -1,4 +1,4 @@
-<svg >
+<svg xmlns:xlink="http://www.w3.org/1999/xlink">
     
     <path id="path">
       <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="10s" begin="0s"
