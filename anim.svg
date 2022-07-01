@@ -30,7 +30,7 @@
         />
     </path>
     
-        <text style="font-family:'Open Sans';font-size:80px ;font-color:'red';"
+        <text style="font-family:'Open Sans';font-size:80px ;"
                    
             fill="green"
             stroke="green"
@@ -45,7 +45,7 @@
 
 
 
-        <text style="font-family:'Open Sans';font-size:80px ;font-color:'red';"
+        <text style="font-family:'Open Sans';font-size:80px ;"
                    
             fill="green"
             stroke="green"
@@ -58,7 +58,7 @@
         </textPath>
    </text>
 
-        <text style="font-family:'Open Sans';font-size:80px ;font-color:'red';"
+        <text style="font-family:'Open Sans';font-size:80px ;"
                    
             fill="green"
             stroke="green"
