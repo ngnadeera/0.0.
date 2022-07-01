@@ -1,17 +1,77 @@
+
+
 <svg version="1.1"
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink">
     
-    <path id="path">
-      <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="10s" begin="0s"
-        repeatCount="indefinite"/>
-    </path>
-        <text style="font-family:'Open Sans';font-size:40px ;">
-          <textPath xlink:href="#path">
-           Tharuka Sandaruwan
-        </textPath>
-    </text>
-    
   
+    <path id="path">
+      <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="1.5s" begin="0s"
+        />
+        <animate attributeName="d" from="m0,110 h1100" to="m0,110 h0" dur="1.5s" begin="1.5s"
+        />
+    </path>
+
+
+
+     <path id="path3">
+      <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="3s" begin="4s"
+        />
+        <animate attributeName="d" from="m0,110 h1100" to="m0,110 h0" dur="3s" begin="7s"
+        />
+    </path>
+
+
+     <path id="path4">
+      <animate attributeName="d" from="m0,110 h0" to="m0,110 h1200" dur="4s" begin="11s"
+        />
+        <animate attributeName="d" from="m0,110 h1200" to="m0,110 h0" dur="4s" begin="15s"
+        />
+    </path>
     
+        <text style="font-family:'Open Sans';font-size:80px ;font-color:'red';"
+                   
+            fill="green"
+            stroke="green"
+            stroke-width="1px"
+            font-size="25"
+            font-weight="bold" 
+        >
+          <textPath xlink:href="#path" >
+           Hello World!
+                   </textPath>
+   </text>
+
+
+
+        <text style="font-family:'Open Sans';font-size:80px ;font-color:'red';"
+                   
+            fill="green"
+            stroke="green"
+            stroke-width="1px"
+            font-size="25"
+            font-weight="bold" 
+        >
+          <textPath xlink:href="#path3">
+           I am Tharuka Sandaruwan. 
+        </textPath>
+   </text>
+
+        <text style="font-family:'Open Sans';font-size:80px ;font-color:'red';"
+                   
+            fill="green"
+            stroke="green"
+            stroke-width="1px"
+            font-size="25"
+            font-weight="bold" 
+        >
+          <textPath xlink:href="#path4">
+           An IT undergraduate @ UOK. 
+        </textPath>
+   </text>   
+
+
+
+    
+
 </svg>
